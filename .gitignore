@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+downloads/*.mp4
+videos/*.mp4
+*.mp4
